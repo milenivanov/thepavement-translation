@@ -17,3 +17,7 @@ The organization of a translation file for a particular item and a particular la
     * *Translation* - each section in the translation is separated from the next one by a blank line (for readability). Same as the original text section.
 
 * **File location** - the file is located in a directory named after the specific subsection of the Services section of the website, which in turn is located in the `services` directory, which in turn is located in the directory corresponding to the translation language.
+
+# Common Directory
+
+Every language directory contains a common directory which contains translations of common expressions which might occur in multiple items.

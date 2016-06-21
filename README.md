@@ -11,7 +11,7 @@ The organization of a translation file for a particular item and a particular la
     File name: action-for-children-(gen-r-8-project).md
     ```
 
-* **Text organization** - the translation file consists of the following sections (in this order)
+* **Text organization** - the translation file consists of the following sections (in this order). Look at existing translations for examples.
     * *Original text* - each section in the item is separated from the next one by a blank line (for readability)
     * *Separator* - separates the original text from the translation: a blank line, followed by `--`, followed by another blank line
     * *Translation* - each section in the translation is separated from the next one by a blank line (for readability). Same as the original text section.

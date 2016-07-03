@@ -14,10 +14,8 @@ Friendly drop-in where people who are vulnerable through homelessness or mental 
 
 Проектът на BARON’S COURT
 
-Адрес: 69 Talgarth Road, London W14 9DD
-
-Телефон: 020 7603 5232
-
+Адрес: 69 Talgarth Road, London W14 9DD  
+Телефон: 020 7603 5232  
 Работно време:  
 понеделник-сряда: 14:00-17:00 (отбийте се за душ, пране и кафе)  
 петък: 12:00-14:00 (женска група)  

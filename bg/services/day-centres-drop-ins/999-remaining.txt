@@ -2,19 +2,19 @@ providence-row.md
 PROVIDENCE ROW
 82 Wentworth Street, London E1 7SA
 020 7375 0020
-понеделник: 10:00–11:30 (men's group)
-понеделник: 14:00-15:00 (yoga)
-вторник: 11:30–12:30 (relaxation skills)
-сряда: 11:30–13:00 (peer support, addictions)
-вторник: 14:00–15:30 (women's group)
-понеделник–петък: 9:00–15:30 (needle exchange - closed 12.30–1.30pm)
-вторник: 9:30–12:30 (homeopathy)
-четвъртък: 11:00–13:00 (art & wellbeing)
-петък: 10:00–11:30 (Breaking Free Online- computer assisted therapy)
-петък: 10:00–11:30 (self-harming support group)
+понеделник: 10:00–11:30 (мъжка група)
+понеделник: 14:00-15:00 (йога)
+вторник: 11:30–12:30 (умения за отпускане)
+сряда: 11:30–13:00 (подкрепа, пристрастявания)
+вторник: 14:00–15:30 (женска група)
+понеделник–петък: 9:00–15:30 (размяна на игли - затворено 12:30–13:30)
+вторник: 9:30–12:30 (хомеопатия)
+четвъртък: 11:00–13:00 (изкуство и здраве)
+петък: 10:00–11:30 (Он-лайн освобождаване - компютърно подпомогната терапия)
+петък: 10:00–11:30 (група за подкрепа на самонараняващи се)
 Карта: Уебсайт: bit.ly/1rvpkcW
-Helps people of all backgrounds to an independent & fulfilled life away from homelessness & exclusion. They address not only users'immediate needs, but also the underlying issues and causes of their homelessness and exclusion.
-Art classes, Bathroom/showers, Benefits advice, Careers advice, Counselling, Drugs workers, Education/training, Food, Food (free), Internet access, Mental health, Needle exchange
+Помага на хора от всички среди да постигнат независим и пълноценен живот далеч от бездомност и социано изключване. Те се грижат не само за непосредствените нужди на гостите, но също така и за коренните причини за бездомност и социално изключване.
+CODES: AC BS BA CA C DW ET F FF IT MH NE
 
 sanktus-welfare-project.md
 SANKTUS WELFARE PROJECT
@@ -61,7 +61,7 @@ SPIRES CENTRE
 вторник: 10:30am–14:00 (drop-in)
 понеделник, вторник, петък: 9:00–10:30am (rough sleepers)
 четвъртък: 9:00–13:00 (rough sleepers only)
-понеделник: 10:30am–1:30pm (women's space)
+понеделник: 10:30am–13:30 (women's space)
 Карта: Уебсайт: bit.ly/FrCQf
 Drop-in, food, showers, clothing, resettlement advice, drug & alcohol support, health advice, medical and optician services and much more! Please contact Spires for adult education info and times.
 
@@ -223,7 +223,7 @@ THE SALVATION ARMY (NUMBER 10 DROP-IN CENTRE)
 сряда: 11:00–12am (JobcentrePlus)
 четвъртък: 10:00–12am (appointments only)
 петък: 2:30pm–4pm (table tennis; advice & enquiries)
-понеделник, сряда, петък: 11:00–1:30pm (appointments)
+понеделник, сряда, петък: 11:00–13:30 (appointments)
 Карта: Уебсайт: bit.ly/1SlBWkZ
 Please speak to a member of staff to arrange an appointment.
 Accommodation/housing advice, Benefits advice, Clothing store, Leisure activities
@@ -285,7 +285,7 @@ WEST LONDON DAY CENTRE
 понеделник–петък: 8:45am–10:00 (rough sleepers' drop-in)
 понеделник–петък: 10:00–11:30 (drop-in - hostel residents join)
 понеделник–четвъртък: 11:45am–12:45am (advice - appointments only)
-понеделник & четвъртък: 1:30pm–15:30 (drop-in for those with tenancies)
+понеделник & четвъртък: 13:30–15:30 (drop-in for those with tenancies)
 Карта: Уебсайт: bit.ly/1RsGyoM
 Art classes, Bathroom/showers, Benefits advice, Clothing store, Counselling, Food, Internet access, Luggage storage, Medical/health, Outreach worker links, Tenancy support
 
@@ -376,7 +376,7 @@ ST GEORGE’S HOUSE DROP-IN
 1 Clarence St, Wolverhampton, West Midlands WV1 1WZ
 01902 421904
 понеделник–петък: 8:15am–13:00
-понеделник–петък: 1:30pm–4pm
+понеделник–петък: 13:30–4pm
 Карта: Уебсайт: bit.ly/1M4wP5O
 For homeless people, ex-offenders, substance misusers and others who are often barred from other services and facilities. Advice, support and guidance, and signposting to other services. Many activities – phone for further details.
 Accommodation/housing advice, Advocacy, Benefits advice, Drugs workers, Education/training, Food, Leisure activities, Outreach worker links
@@ -456,7 +456,7 @@ CRISIS CENTRE MINISTRIES
 понеделник, сряда, четвъртък, петък: 10:00–3pm (Wild Goose Cafe)
 неделя–петък: 8pm–9:45pm (Wild Goose Cafe)
 вторник: 10:00–13:00 (Wild Goose Cafe)
-вторник & сряда: 1:30pm–4pm (LITE course)
+вторник & сряда: 13:30–4pm (LITE course)
 вторник: 13:00–4pm (wet clinic)
 сряда & неделя: 10pm–8am (SoH night shelter)
 Карта: Уебсайт: bit.ly/1eEOShU
@@ -497,7 +497,7 @@ ST PETROCK’S
 понеделник–петък: 9:00–13:00 (drop-in)
 сряда & петък: 10:00–12am (mental health practitioner)
 вторник & четвъртък: 14:00–4pm (probation, housing, jobs etc)
-понеделник: 14:00–4pm (women's group)
+понеделник: 14:00–4pm (женска група)
 понеделник & четвъртък: 9:00–12am podiatrist понеделник, nurse четвъртък)
 вторник: 11:00–13:00 (alternative healing)
 Карта: Уебсайт: bit.ly/1OGdaLm
@@ -588,8 +588,8 @@ worthing-churches-homeless-projects.md
 WORTHING CHURCHES HOMELESS PROJECTS
 St Clare??‚C?‚N?s Day Centre, 6-8 Marine Place, Worthing, South East BN11 3DN
 01903 832925
-понеделник–петък: 9:00–0am (showers, laundry, clothing, needle exchange, hot meal, advice)
-събота & неделя: 9:00–11:00 (clothing, needle exchange, hot meal, advice)
+понеделник–петък: 9:00–0am (showers, laundry, clothing, размяна на игли, hot meal, advice)
+събота & неделя: 9:00–11:00 (clothing, размяна на игли, hot meal, advice)
 Карта: Уебсайт: bit.ly/LqduD
 Founded by Christians joining together to help homeless people in Worthing. WCHP works with the whole community to provide a non-judgmental approach; an environment where everyone is known and valued as an individual; practical help and emotional support; opportunities and challenges that enable homeless people to take responsibility and fulfil their potential.
 Accommodation/housing advice, Alcohol workers, Barber, Bathroom/showers, Bedding, Benefits advice, Careers advice, Clothing store, Debt advice, Drugs workers, Education/training, Food, Foot care, Internet access, Medical/health, Mental health, Needle exchange, Outreach worker links, Tenancy support

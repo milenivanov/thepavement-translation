@@ -161,7 +161,7 @@ THE CONNECTION AT ST MARTIN IN THE FIELDS
 CODES: AH A AC BS BA CA CL DW ET F FC IT MS MH MD OW
 
 the-manna-at-st-stephen’s.md
-THE MANNA AT ST STEPHEN’S
+Манна при ST STEPHEN’S
 17 Canonbury Road, London N1 2DF
 020 7226 5369
 вторник: 19:00–21:00
@@ -169,62 +169,63 @@ THE MANNA AT ST STEPHEN’S
 сряда: 13:00–15:30
 Карта: Уебсайт: bit.ly/1SNVUVU
 A drop-in and key work service for homeless and marginalised people in Islington, offering food, showers, laundry (?1), pool, table tennis, singing, art, poetry and gardening alongside targeted key work appointments. Helpline: 020 7226 5369.
-Accommodation/housing advice, Advocacy, Alcohol workers, Art classes, Bathroom/showers, Bedding, Benefits advice, Careers advice, Clothing store, Debt advice, Ex-forces, Ex-offenders, Food (free), Internet access, Laundry, Legal advice, Leisure activities, Luggage storage, Music/drama, Outreach worker links, Tenancy support
+Място със свободен достъп и ключови работни услуга за бездомни и маргинализирани хора в Islington, предлагащо храна, душове, пералня, басейн, тенис на маса, пеене, изкуство, поезия и градинарство заедно целеви ключови работни срещи. Гореща линия: 020 7226 5369.
+CODES: AH AD A AC BS BE BA CA CL DA EF EO FF IT L LA LA LS MD OL TS
 
 the-manna-centre.md
-THE MANNA CENTRE
-7–13 Melior Street, (Temp entrance between 60 & 62 Weston St, SE1 3QJ), London SE1 3QP
+Манна център
+7–13 Melior Street, (временен вход - 60 & 62 Weston St, SE1 3QJ), London SE1 3QP
 020 7357 9363
-четвъртък: 9:30–13:00 (health advice for refugees)
-четвъртък: 10:00–13:00 (access to computers)
-вторник: 10:00–13:00 (chiropodist fortnightly)
-вторник: 9:30–12:00 (mental health surgery)
-сряда: 10:00–13:00 (osteopath)
-четвъртък: 9:30–13:00 (DWP surgery)
-неделя: 10:30–11:00 (clothing store, 2nd & 3rd of month, Oct–May)
-петък: 9:30–13:00 (nurse)
+четвъртък: 9:30–13:00 (здравни съвети за бежанци)
+четвъртък: 10:00–13:00 (компютърен достъп)
+вторник: 10:00–13:00 (подиатрия на всеки две седмици)
+вторник: 9:30–12:00 (хирургия по психично здраве)
+сряда: 10:00–13:00 (остеопат)
+четвъртък: 9:30–13:00 (хирургия към Отдела по заетост и пенсии)
+неделя: 10:30–11:00 (магазин за дрехи, на 2ро и 3то число от месеца от октомври до май)
+петък: 9:30–13:00 (медицинска сестра)
 Карта: Уебсайт: bit.ly/1lkMogC
-Open-access day centre open 7 days a week. Daily services include breakfast & lunch, showers and housing & welfare advice. All services are free.
-Accommodation/housing advice, Bathroom/showers, Benefits advice, Clothing store, Education/training, Food (free), Foot care, Medical/health, Mental health, Tenancy support
+Дневен център със свободен достъп работи 7 дни в седмицата. Ежедневни услуги включват закуска и обяд, душове и подслон и съвети за благосъстояние. Всички услуги са безплатни.
+CODES: AH BS BA CL ET FF FC MS MH TS
 
 the-passage.md
-THE PASSAGE
+Пасажът
 St Vincent's Centre, Carlisle Place, London SW1P 1NL
 020 7592 1850
-понеделник–петък: 8:00–12:00 (for rough sleepers)
-понеделник–петък: 12:00–14:00 (lunch)
-понеделник–петък: 14:00–18:00 (appointments)
-понеделник–петък: 16:30–18:00 (verified rough sleepers)
-събота & неделя: 9:00–12:00
+понеделник–петък: 8:00–12:00 (за хора спящи в тежки условия)
+понеделник–петък: 12:00–14:00 (обяд)
+понеделник–петък: 14:00–18:00 (срещи с уговорен час)
+понеделник–петък: 16:30–18:00 (за хора спящи в тежки условия, за които е потвърдено)
+събота и неделя: 9:00–12:00
 Карта: Уебсайт: bit.ly/W2LqcS
-For people aged 25+.
-Accommodation/housing advice, Alcohol workers, Benefits advice, Careers advice, Clothing store, Drugs workers, Education/training, Food, Foot care, Internet access, Medical/health, Mental health, Tenancy support
+За хора над 25 години.
+CODES: AH A BA CA CL DW ET F FC IT MS MH TS
 
 the-salvation-army-(chalk-farm).md
-THE SALVATION ARMY (CHALK FARM)
+Армия на спасението (CHALK FARM)
 10-16 Haverstock Hill, London NW3 2XY
 020 7485 1605
-понеделник: 18:00–20:00 (men only)
-сряда: 18:00–7:30pm (men & women)
+понеделник: 18:00–20:00 (само за мъже)
+сряда: 18:00–19:30 (за мъже и жени)
 Карта: Уебсайт: bit.ly/1Q8MIMk
-Open drop-in.
-Bathroom/showers, Food
+Свободен достъп.
+CODES: BS F
 
 the-salvation-army-(number-10-drop-in-centre).md
-THE SALVATION ARMY (NUMBER 10 DROP-IN CENTRE)
+Армия на спасението (Център със свободен достъп номер 10)
 10 Princes Street, London W1B 2LH
-020 7629 5424 (option 4)
-сряда: 5:30pm–20:00 (soup kitchen)
-сряда: 2:30pm–16:00 (advice & enquiries; JobCentrePlus)
-понеделник: 2:30pm–16:00 (film club; advice & enquiries)
-вторник: 2:30pm–16:00 (art, board games & drop-in)
+020 7629 5424 (опция 4)
+сряда: 17:30–20:00 (супа)
+сряда: 14:30–16:00 (съвети и запитвания; JobCentrePlus)
+понеделник: 14:30–16:00 (фирмен клуб; съвети и запитвания)
+вторник: 14:30–16:00 (изкуства, игри за маса и време за свободен достъп)
 сряда: 11:00–12:00 (JobcentrePlus)
-четвъртък: 10:00–12:00 (appointments only)
-петък: 2:30pm–16:00 (table tennis; advice & enquiries)
-понеделник, сряда, петък: 11:00–13:30 (appointments)
+четвъртък: 10:00–12:00 (само с уговорен час)
+петък: 14:30–16:00 (тенис на маса; съвети и запитвания)
+понеделник, сряда, петък: 11:00–13:30 (само с уговорен час)
 Карта: Уебсайт: bit.ly/1SlBWkZ
-Please speak to a member of staff to arrange an appointment.
-Accommodation/housing advice, Benefits advice, Clothing store, Leisure activities
+Моля, говорете с член на персонала, за да запазите час.
+CODES: AH BA CL LA
 
 the-tab.md
 THE TAB
@@ -232,84 +233,86 @@ Shoreditch Tabernacle Baptist Church, 3 Godfrey Place, London E2 7NT
 020 7739 3076
 петък: 9:00–12:00
 Карта: Уебсайт: bit.ly/1zLUArx
-Offers support and friendship to people experiencing homelessness, and alcohol and drug addiction.
-Drugs workers, Food
+Предлага подкрепа и приятелство на хора страдащи от бездомие и алкохолна и наркотична зависимост.
+CODES: DW F
 
 the-welcome-project.md
-THE WELCOME PROJECT
+Проект "Добре дошли"
 2 St Marys Road, Ilford, London IG1 1QX
 020 8514 3283
-сряда & петък: 9:00–15:30
-вторник & четвъртък: 10:00–15:30
+сряда и петък: 9:00–15:30
+вторник и четвъртък: 10:00–15:30
 Карта: Уебсайт: bit.ly/smSZU
-Drop-in service for homeless people, particularly rough sleepers. Support work, nurse-led clinic, counselling, ESOL & other educational sessions that support independent living. Allotment, gardening, exercise and therapeutic massage also available. Referral through Streetlink only.
-Education/training, Leisure activities, Medical/health
+Място със свободен достъп за бездомни хора, особено хора спящи в тежки условия. Подкрепа, клиника ръководена от медицинска сестра, консултиране, английски език за чуждоговорящи и други образователни сесии, които подкрепят независим живот. Разпределение, градинарство, упражнения и терапевтичен масаж също са на разположение. Препоръки само чрез Streetlink.
+CODES: ET LA MS
 
 triumphant-church-international.md
-TRIUMPHANT CHURCH INTERNATIONAL
+Международна триумфална черква
 136 West Green Rd, South Tottenham, London N15 5AD
 020 8800 6001
-неделя: 9:00–11:00 (drop-in)
-сряда: 19:00–20:00 (drop in)
+неделя: 9:00–11:00 (свободен достъп)
+сряда: 19:00–20:00 (свободен достъп)
 неделя: 9:00–10:00
 Карта: Уебсайт: bit.ly/1nLstCb
-Advocacy, Clothing store, Food (free)
+CODES: AD CL FF
 
 upper-holloway-baptist-church-(archway-drop-in-centre).md
-UPPER HOLLOWAY BAPTIST CHURCH (ARCHWAY DROP-IN CENTRE)
+Баптистка черква UPPER HOLLOWAY (Център със свободен достъп ARCHWAY)
 11 Tollington Way, London N7 6RG
 020 7272 2104
-понеделник: 10:00–12:00 (sandwiches, soups, drinks)
+понеделник: 10:00–12:00 (сандвичи, супа, напитки)
 Карта: Уебсайт: bit.ly/1NoVTrd
-Food (light snacks, tea, soup, sandwiches), a change of clothes and somewhere to spend time. Some counselling, advice and information available. Charge of ?1 for food.
-Clothing store, Food, Leisure facilities
+Храна (леки закуски, чай, супи, сандвичи), смяна на дрехи и място за прекарване на време. Предлага Съветване, консултации и достъпна. Такса £1 за храна.
+CODES: CL F LF
 
 webber-street-(london-city-mission).md
-WEBBER STREET (LONDON CITY MISSION)
+WEBBER STREET (Лондонска градска мисия)
 6-8 Webber Street, London SE1 8QA
 020 7928 1677
-понеделник–събота: 9:30–10:00 (breakfast)
-понеделник–събота: 10:00–11:30 (showers, clothing – not петък)
-вторник & четвъртък: 10:00–12:00 (nurse)
-петък: 9:00–12:00 (advice & info drop-in)
+понеделник–събота: 9:30–10:00 (закуска)
+понеделник–събота: 10:00–11:30 (душове, дрехи – без петък)
+вторник и четвъртък: 10:00–12:00 (медицинска сестра)
+петък: 9:00–12:00 (място със свободен достъп за съвети и информация)
 Карта: Уебсайт: bit.ly/309Mk
-List for showers taken on понеделник – only 1 shower per week per male guests. Short Bible talk each morning – prayer and other spiritual help offered. Closed first сряда of each month.
-Bathroom/showers, Clothing store, Food, Leisure activities, Medical/health, Mental health, Outreach worker links
+Записване за душове става в понеделник - само 1 душ седмично за мъже. Има кратка дискусия по Библията всяка сутрин - предлага молитва и друга духовна помощ. Затворено първата сряда на всеки месец.
+CODES: BS CL F LA MS MH OL
 
 west-london-day-centre.md
-WEST LONDON DAY CENTRE
+Дневен център Западен Лондон
 134-136 Seymour Place, London
 020 7569 5900
-понеделник–петък: 8:45am–10:00 (rough sleepers' drop-in)
-понеделник–петък: 10:00–11:30 (drop-in - hostel residents join)
-понеделник–четвъртък: 11:45am–12:45am (advice - appointments only)
-понеделник & четвъртък: 13:30–15:30 (drop-in for those with tenancies)
+понеделник–петък: 8:45–10:00 (свободен достъп за хора спящи в тежки условия)
+понеделник–петък: 10:00–11:30 (свободен достъп за гости на хостела)
+понеделник–четвъртък: 11:45–12:45 (съвети - само с уговорен час)
+понеделник и четвъртък: 13:30–15:30 (свободен достъп за хора с договор за наем)
 Карта: Уебсайт: bit.ly/1RsGyoM
-Art classes, Bathroom/showers, Benefits advice, Clothing store, Counselling, Food, Internet access, Luggage storage, Medical/health, Outreach worker links, Tenancy support
+CODES: AC BS BA CL C F IT LS MS OL TS
 
 whitechapel-mission.md
-WHITECHAPEL MISSION
+Мисия WHITECHAPEL
 212 Whitechapel Road, London E1 1BJ
 020 7247 8280
-понеделник–неделя: 6am–11:00 (cooked breakfast 8–10:00)
-събота: 12:00–2:30pm (women only)
+понеделник–неделя: 6:00–11:00 (готвена закуска 8–10:00)
+събота: 12:00–14:30 (само за жени)
 Карта: Уебсайт: bit.ly/mDSOe
-Welcoming centre open 365 days a year.
-Accommodation/housing advice, Alcohol workers, Barber, Bathroom/showers, Bedding, Benefits advice, Clothing store, Counselling, Debt advice, Drugs workers, Food, Internet access, Medical/health, Outreach worker links, Tenancy support
+Приветстващ център, отворен 365 дни в годината.
+CODES: AH A B BS BE BA CL C DA DW F IT MS OL TS
 
 wsup-(the-weekend-service-user-project).md
 WSUP (THE WEEKEND SERVICE USER PROJECT)
 Woolwich Central Baptist Church, Simmons Road, London SE18 6UX
 07426046283
-събота: 10:30–2:30pm (clothing 3rd Sat of month)
+събота: 10:30–14:30 (clothing 3rd Sat of month)
 Карта: Уебсайт: bit.ly/1MqVQ8M
 Showers, laundry facilities and food. Also clothing, hairdresser, and signposting. Art therapist, board games and table tennis.
+Душове, перални съоръжения и храна. Също така дрехи, фризьорски салон и указателни табели. Арт терапевт, игри за маса и тенис на маса.
+
 
 huggard.md
 HUGGARD
 Huggard Centre, Huggard Buildings, Hansen Street, Cardiff, Wales CF10 5NQ
 02920642000
-понеделник–неделя: 8:30am–7:30pm (day centre)
+понеделник–неделя: 8:30am–19:30 (day centre)
 Карта: Уебсайт: bit.ly/1mq7cyv
 Day centre and allied hostel for persons who are homeless or suffering from psychological or physical infirmity or who by for reason of adverse circumstances are thereby in need of help.
 Accommodation/housing advice, Advocacy, Alcohol workers, Bathroom/showers, Bedding, Benefits advice, Clothing store, Counselling, Debt advice, Dentist, Drugs workers, Education/training, Food (free), Medical/health, Needle exchange, Outreach worker links, Outreach workers, Tenancy support
@@ -346,7 +349,7 @@ MAGGS DAY CENTRE
 St Albans, Deansway, Worcester, West Midlands WR1 2JD
 01905 25027
 събота: 12:00–12:30 (sandwiches outside the door)
-неделя–четвъртък: 8:00–12:45am
+неделя–четвъртък: 8:00–12:45
 Карта: Уебсайт: bit.ly/1CG8xKY
 Safe, non-judgmental and welcoming place where homeless people can find a range of services and be signposted to others.
 Accommodation/housing advice, Advocacy, Bathroom/showers, Clothing store, Food, Laundry, Outreach worker links
@@ -540,7 +543,7 @@ CATALYST NIGHT SHELTER
 Sennen Cottage, Ockendon Road, Upminster, Essex, South East RM14 2DN
 07527192161
 1 November to 1 March
-понеделник–неделя: 7:30pm–8:00
+понеделник–неделя: 19:30–8:00
 сряда: 10:30–12:30 (drop-in)
 Night shelter, multi-agency working and referrals. Three supported living properties and a residential recovery programme. Shelter in a different venue each evening – locations disclosed during registration. Register using the above contact number.
 Accommodation/housing advice, Advocacy, Alcohol workers, Bathroom/showers, Bedding, Benefits advice, Debt advice, Drugs workers, Education/training, Ex-forces, Ex-offenders, Food (free), Luggage storage, Mental health, Outreach worker links, Outreach workers, Tenancy support
@@ -689,9 +692,9 @@ barony-(lothian-and-borders-office).md
 BARONY (LOTHIAN AND BORDERS OFFICE)
 101 High Riggs, Tollcross, Edinburgh, Scotland EH3 9RP
 0345 140 7777
-понеделник: 2:30pm–16:00 (art group)
+понеделник: 14:30–16:00 (art group)
 вторник: 10:30–16:00
-четвъртък: 15:30–7:30pm (drop-in)
+четвъртък: 15:30–19:30 (drop-in)
 петък: 11:00–14:00 (women only drop-in)
 неделя: 11:00–16:00 (drop-in)
 понеделник: 6:30pm–21:00 (art group)
@@ -712,8 +715,8 @@ glasgow-council-on-alcohol-(east-community-alcohol-support-service).md
 GLASGOW COUNCIL ON ALCOHOL (EAST COMMUNITY ALCOHOL SUPPORT SERVICE)
 26 0rr Street, Glasgow, Scotland G40 2AJ
 0141 554 5368
-понеделник–четвъртък: 8:45am–16:45 (drop-in 10:00-12:00)
-петък: 8:45am–16:00 (drop-in 10:00-12:00)
+понеделник–четвъртък: 8:45–16:45 (drop-in 10:00-12:00)
+петък: 8:45–16:00 (drop-in 10:00-12:00)
 Карта: Уебсайт: bit.ly/npw69z
 East Cass supports people who are homeless or at risk of being homeless as a result of alcohol misuse. It provides advice, information and support around alcohol-related housing issues.
 Accommodation/housing advice, Advocacy, Alcohol workers, Benefits advice, Debt advice, Education/training, Leisure activities, Outreach workers, Tenancy support
@@ -823,7 +826,7 @@ the-salvation-army-(regener8+-drop-in).md
 THE SALVATION ARMY (REGENER8+ DROP IN)
 25 Niddry Street, Edinburgh, Scotland EH1 1LG
 0131 523 1060
-понеделник–петък: 9:00–12:45am
+понеделник–петък: 9:00–12:45
 Карта: Уебсайт: bit.ly/1Zc4YGK
 "The Salvation Army exists to serve suffering humanity, save souls and grow saints." Cheap, good quality breakfast & dinner; Crisis Intervention Support workers; Gateway Visiting Support Offices; safe space; games; chaplaincy service; activity groups. Art class on Thurs.
 Accommodation/housing advice, Advocacy, Art classes, Bathroom/showers, Bedding, Benefits advice, Clothing store, Food, Food (free), Internet access, Laundry, Leisure facilities, Tenancy support
@@ -832,7 +835,7 @@ the-wayside-club-centre.md
 THE WAYSIDE CLUB CENTRE
 32 Midland Street, Glasgow, Scotland G1 4PR
 0141 221 0169
-понеделник–неделя: 7:30pm–10pm
+понеделник–неделя: 19:30–10pm
 събота: 13:00–16:00
 Evening and weekend drop-in for people affected by homelessness and poverty.
 Barber, Bathroom/showers, Clothing store, Food (free)

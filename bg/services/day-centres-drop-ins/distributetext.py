@@ -1,5 +1,9 @@
 #!/usr/local/bin/python3
 
+
+def buildline(line):
+    return "{}  \n".format(line.rstrip())
+
 def buildfilename(text, num):
     filename = text.strip()
     if not filename:
@@ -8,6 +12,9 @@ def buildfilename(text, num):
 
 def writeitem(dest, text):
     with open(dest, "a") as f:
+        f.write("\n")
+        f.write("--\n")
+        f.write("\n")
         f.write(text)
 
 with open("999-remaining.txt") as f:
@@ -21,7 +28,7 @@ with open("999-remaining.txt") as f:
         if 1 == linecount:
             newname = buildfilename(line, filenum)
         else:
-            para += line
+            para += buildline(line)
 
         if "\n" == line:
             writeitem(newname, para)

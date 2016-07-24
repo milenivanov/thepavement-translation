@@ -17,7 +17,7 @@ def writeitem(dest, text):
         f.write("\n")
         f.write(text)
 
-with open("999-remaining.txt") as f:
+with open("999-all-translations.txt") as f:
     linecount = 0
     para = ""
     newname = "BADNAME"
